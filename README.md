@@ -1,2 +1,3 @@
 # RGBYCellLife
-A system simply simulate the life of the cell.
+Course project in CS203B.
+The project simulates some simplified virtual single-celled life on a rectangular 2d planar space.
